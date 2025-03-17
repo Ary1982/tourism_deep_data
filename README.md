@@ -1,6 +1,8 @@
 # Nova Tours: proyecto turismo sostenible
 Proyecto del equipo DeepData, para la Agencia de Viajes Nova Tours.
 
+![Portada](https://github.com/user-attachments/assets/3bd57b56-ed40-47ee-87e9-1ffbaca6ecb3)
+
 Miembros del equipo DeepData:
 
 - Arianna Rassu ( https://github.com/Ary1982 )
@@ -15,6 +17,8 @@ Miembros del equipo DeepData:
 Así comenzó nuestra inmersión en los datos de la agencia de viajes Nova Tours, analizando el comportamiento de sus clientes y las tendencias del turismo actual.
 
 CONTEXTO GLOBAL:
+
+![Contexto global](https://github.com/user-attachments/assets/67911a77-bdec-4dd7-82a6-ce540e987454)
 
 Según la OMT (La Organización Mundial del Turismo), el número de turistas ha aumentado un 250% entre 2020 y 2024, y los ingresos por turismo han aumentado un 196% en el mismo período.
 
@@ -34,6 +38,8 @@ de  sostenibilidad.
 
 DASHBOARD 1: ANÁLISIS DE COMPORTAMIENTO VIAJEROS
 
+![Dashboard 1](https://github.com/user-attachments/assets/28b8500b-340a-416e-867d-8005d24487e9)
+
 En la primera gráfica podemos ver los lugares más visitados por los clientes de Nova Tours: 
 
 - Taj Mahal en India
@@ -50,6 +56,8 @@ Los viajeros senior son los que más exploran el mundo, seguidos de los adultos.
 
 DASHBOARD 2: SATISFACCIÓN DE LOS VIAJEROS
 
+![Dashboard 2](https://github.com/user-attachments/assets/e6607a0d-8ac0-4943-8b85-32d94cd7ce69)
+
 Según la OMT, el aumento del uso de dispositivos de realidad virtual VR para completar la experiencia turística, ha aumentado en un 350% y la acsesibilidad también ha subido un 15-20%, lo que hace que más personas puedan disfrutar de estas experiencias.
 
 En la gráfica de anillo,, vemos la satisfacción del viajero  teniendo en cuenta factores como la duración del tour. Se mide en una escala de 1 a 5 y los resultados nos muestran que la mayoría de los clientes están encantados y que no hay clientes insatisfechos.
@@ -61,6 +69,8 @@ satisfacción de los viajeros aumenta si incluimos en los viajes el uso de la re
 
 DASHBOARD 3: PROPOSICIÓN DE ALTERNATIVAS
 
+![Dashboard 3](https://github.com/user-attachments/assets/756cb074-c04d-44e2-b633-ae2ea93c512c)
+
 Si recordáis los datos de la primera gráfica: los lugares más visitados por los clientes de Nova Tours son: Muralla China, Tah Mahal, Torre Eiffel, Machu Pichu y Coliseo.
 
 Sin embargo, sabemos que estos destinos tan populares están muy masificados, y somos conscientes de que esto no es una buena experiencia para el que viaja. Para evitar esto hemos buscado alternativas a estos destinos basándonos en los datos de la Unesco. 
@@ -70,6 +80,8 @@ Para quien no lo sepa, la Unesco es un organismo de la ONU que promueve el patri
 
 
 MAPA INTERACTIVO CON DESTINOS ALTERNATIVOS
+
+![Mapa](https://github.com/user-attachments/assets/158dff32-55e6-40fb-a2f4-210f576209c0)
 
 En este mapa os presentamos 5 destinos emergentes que no solo son ricos en historia, sino que también tienen un gran valor cultural y natural y que pueden ser propuestos cómo alternativa a los destino más visitados por los clientes de Nova Tours:
 
@@ -81,6 +93,8 @@ En este mapa os presentamos 5 destinos emergentes que no solo son ricos en histo
 
 
 CONCLUSIONES DEL ANÁLISIS:
+
+![Conclusiones](https://github.com/user-attachments/assets/3a87bfc0-ca99-4fe3-b43c-5dca2821f442)
 
 Si Nova Tours quiere posicionarse como líder del turismo del futuro los pasos a seguir son claros:
 
